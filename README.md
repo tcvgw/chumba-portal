@@ -8,7 +8,7 @@ Current state - use IDE to run:
 - cp-registration --> Register.java
 - cp-web --> serve packages folder on port 8080
 
-Run nginx (see confic below)
+Run nginx (see config below)
 
 Browse: http://localhost:9000 
 
